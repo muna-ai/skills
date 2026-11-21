@@ -1,0 +1,4 @@
+interface:
+  display_name: "Muna Compile"
+  short_description: "Author compiler-compatible Muna model scripts"
+  default_prompt: "Use $muna-compile to adapt this model or Python function into a compilable Muna predictor."
